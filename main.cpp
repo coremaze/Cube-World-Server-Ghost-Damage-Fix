@@ -1,4 +1,3 @@
-#include <iostream>
 #include <windows.h>
 
 unsigned int base;
